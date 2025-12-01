@@ -13,3 +13,6 @@ class Person:
 
     def work(self):
         print("%s在工作" % self.name)
+    
+    def play(Self):
+        print("%s在玩"%self.name)
