@@ -14,5 +14,8 @@ class Person:
     def work(self):
         print("%s在工作" % self.name)
 
+    def play(self):
+        print("%s在玩"%self.name)
+
     def study(self):
         print("%s在工作"%self.name)
