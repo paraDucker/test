@@ -8,6 +8,8 @@ class Person:
     def eat(self):
         print("%s在吃饭" % self.name)
 
-
     def drink(self):
         print("%s在喝酒" % self.name)
+
+    def work(self):
+        print("%s在工作" % self.name)
